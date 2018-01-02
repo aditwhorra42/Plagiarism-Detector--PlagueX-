@@ -1,0 +1,458 @@
+﻿01. The ducks swim in the pond near my house.
+The ducks swim in the lake close to my home
+There is a pond near my house, where the ducks swim.
+There is a lake close to my house, where the ducks swim.
+
+02. Sue changed the flat tire
+Sue replaced the deflated tyre
+The flat tire was changed by Sue.
+The deflated tyre was replaced by Sue
+
+03. Mom read the novel in one day.
+Mother read the book in a day.
+The novel was read by mom in one day. 
+The book was ready by mother in a day.
+
+04. I will clean the house every Saturday.
+I will cleanse the home each Saturday
+The house will be cleaned by me every Saturday.
+The home will be cleansed by me each Saturday.
+
+05. The teacher always answers the studentsí questions. 
+The professor always responds to the students' doubts.
+The studentsí questions are always answered by the teacher.
+The students' doubts are are always responded to by the professor
+
+06. The fire destroyed the whole forest.
+The fire demolished the entire forest.
+The whole forest was destroyed by the fire.
+The entire forest was demolished by the fire.
+
+07. The cleaning crew vacuums and dusts the office every night.
+The cleaning crew vacuums the office every night. The cleaning crew dusts the office every night.
+Every night the office is vacuumed and dusted by the cleaning crew.
+The cleaning team vacuums the office each night. The cleaning team dusts the office each night.
+
+08. Larry generously donated money to the homeless shelter.
+Larry benovelently donated money to the shelter for homeless people
+Money was charitably donated to the homeless shelter by Larry.
+Money was charitably donated to the shelter for homeless people by Larry.
+
+09. The science class viewed the comet.
+The science class saw the comet
+The comet was viewed by the science class. 
+The comet was seen by the science class.
+
+10. They rushed the crash victims to the hospital.
+They hurried the crash casualties to the hospital.
+The crash victims were rushed to the hospital by them.
+The crash casualties were huried to the hospital by them.
+
+11. They disinfect all the equipment at the end of each day.
+They sanitize all the apparatus at the end of the day.
+All of the equipment is disinfected by them at the end of the day.
+All of the apparatus is sanitized by them at the end of the day.
+
+12. He called the police after the burglary.
+He called the policement after the theft.
+The police was called by them after the burglary.
+The police was called by them after the theft. 
+
+13. The hat you are wearing looks very nice.
+The cap you are wearing looks really good.
+The hat being worn by you looks very nice.
+The cap being worn by you looks really good.
+
+14. The talk show host was stunned by the accusation.
+The chat show anchor was stunned by the allegation.
+The accusation stunned the talk show host.
+The allegation stunned the chat show anchor.
+
+15. We were looking for the perfect house to buy for our retirement
+We were finding a perfect retirement home.
+We are retiring and looking for a perfect retirement house.
+We are retiring and trying to find the perfect retirement home.
+
+16. The graceful dancer and her partner glided across the stage.
+The elegant dancer and her associate glided across the platform.
+The two dancers gracefully glided across the stage.
+The two dancers elegantly glided across the platform.
+
+17. The revision for your paper must be delivered to my room by noon.
+The revised version of your paper must be sent to my room by afternoon.
+You should send the revision of your paper to my room by noon.
+You should send the revised version of your paper to my room by afternoon.
+
+18. Your progressive ideas will win valuable votes.
+Your liberal views will win precious votes.
+Valuable votes will be won by your progressive ideas.
+Precious votes will be won because of your liberal views.
+
+19. This special protein drink should make you powerful and energetic.
+This exceptional protien drink should make you strong and active.
+You should become powerful and energetic after having this special protien drink.
+You should become strong and active after having this exceptional protien drink.
+
+20. Raoul wanted a brief talk with his boss.
+Raoul wanted to have a short conversation with his chief.
+Raoul wanted his boss to have a brief talk with him.
+Raoul wanted his chief to have a short conversation with him.
+
+21. The trader accepted my offer.
+The seller embraced my proposal.
+My offer was accpeted by the trader.
+My proposal was embraced by the seller.
+
+22. Ruth is the friendliest person in our apartment building; everyone likes her optimism
+Ruth is the most amiable person in our apartment building and everyone likes her hopefullness.
+Ruth is the friendlist person in our apartment building and her optimism is liked by everyone.
+Ruth is the most amiable person in our apartment building and her hopefullness is liked by everyone.
+
+23. This dog is so faithful to me; he is by far my best friend.
+This dog is so loyal to me; he is by far my greatest friend.
+This dog is so faithful towards me and is by far by best friend.
+This dog is so loyal towards me and is by a large extent my greatest friend.
+
+24. The dean of the school is impatient and arrogant.
+The principal of the school is restless and egotistical.
+The dean of the school is impatient. He is also arrogant. 
+The principal of the school is restless. He is also egotistical.
+
+25. We threw the ball, but we did not intend to hit the window.
+We tossed the ball, but we did not aim to strike the window.
+The ball was thrown by us, but we did not intend to hit the window.
+The ball was tossed by us, but it was not our intention to hit the window.
+
+26. Some people find it difficult to accept compliments.
+Some people find it hard to receive praises.
+It is difficult for some people to accept compliments.
+It is hard for some people to receive praises.
+
+27. We scheduled a time to meet with the teacher.
+We arranged a time to meet with the professor.
+A time was scheduled to us to meet the teacher.
+A time was arranged for us to meet the professor.
+
+28. New rules were written after the accident in the laboratory.
+New regulations were drafted after the accident in the laboratory.
+After the accident in the laboratory, new rules were written.
+After the mishap in the laboratory, new regulations were drafted.
+
+29. The blood donors were rather impatient, for they had waited in the clinic for four hours.
+The blood donators were rather restless, for they had waited in the medical centre for hours.
+Because they had waited in the clinic for hours, the blood donors were rather impatient.
+Having waited in the medical centre for hours, the blood donators were rather restless. 
+
+30. During the storm, all of the phone lines were down, and the streets were flooded.
+At the time of the storm, all of the phone lines were down, and the roads were swamped.
+All the phone lines were down and the streets were flooded during the storm.
+All the phone lines were down and the roads were swamped at the time of the storm.
+
+31. The computer crashed and consequently many of the unsaved files were lost.
+The computer crashed and as a result many of the unsaved files were forgotten.
+Many of the unsaved files were lost as a conseuence of the computer crashing.
+Many of the unsaved files were forgotten as a result of the computer crashing.
+
+32. We detected a faint odor in the basement.
+We noticed a vague smell in the basement.
+A faint odor was detected by us in the basement.
+A vague smell was noticed by us in the basement.
+
+33. The research group conducted a neighborhood survey, for they wanted to gather some data.
+The research team organized a neighbourhood survey poll, for they wanted to collect some data.
+Because they wanted to gather some data, a neighbourhood survey was conducted by the research group.
+in order to collect some data, a neighbourhood poll was organized by the research team.
+
+34. Some people combat fears by facing them directly while others let fear consume them.
+Some people fight fears by confronting them directly while other let fear overwhelm them.
+By facing fears directly, some poeple combat them, while others get consumed by them.
+By confronting fears directly, some people fight them, while others get overwhelmed by them.
+
+35. The children hid beneath the bed; however, their dog was able to find them.
+The kids concealed themselves under the bed; however, the dog was able to discover them.
+The dog was able to find the children even though they hid beneath the bed.
+The dog was able to discover the kids even though they concealed themselves under the bed. 
+
+36. Three transactions are allowed, but I never withdraw money from that account.
+Three transactions are premitted, but I never extract money from that account.
+I never withdraw money from that account even though three transactions are allowed.
+I never extract money from that account even though three transactions are permitted.
+
+37. Caring for the infants is demanding but also very rewarding.
+Taring care of babies is challenging but also very pleasing.
+Even though caring for infants is demanding, it is also very rewarding.
+Even though tking care of babies is challenging, it is also very pleasing. 
+
+38. Too much waste is dumped daily; recycling efforts must become a greater priority.
+A lot of garbage is thrown everyday; recycling attempts must become a bigger concern.
+Recycling efforts must become a greater priority as too much waste is dumped daily.
+Recyling attempts must become a bigger concern as a lot of garbage is thrown everyday.
+
+39. The audience was extremely bored at the meeting, but no one chose to leave.
+The crowd was immensely bored at the gathering, but no one decided to leave.
+No one chose to leave even though the audience was extremely bored at the meeting.
+No one decided to leave despite the croud getting immensely bored at the meeting.
+
+40. It is best to be prepared for all kinds of weather as it is very unpredictable 
+It is most sensible to be ready for all kinds of weather as it is very capricious.
+Because the weather is very unpredictable, it is best to be prepared for all kinds of weather.
+Because the wether is extrememly capricious, it is most sensible to be ready for any kind of weather.
+
+41.  Since you are not indispensable, you must work hard to prove your value.
+Since you are not essential, you must work hard to demonstrate your worth.
+You must work hard to prove your value, since you are not indispensable.
+You must work hard to demonstrate your worth, since you are not essential.
+
+42. The speaker mentioned the fact that every person has some kind of moral dilemma.
+The lecturer suggested the fact all people have some kind of an ethical difficulty.
+The fact that every person has some kind of a moral dilemma was mentioned by the speaker.
+The fact that all people have some kind of an ethical difficulty was suggested by the lecturer.
+
+43.  When deciding on a major, you must identify your talents and goals for the future.
+When choosing a major, you must recognize your abilities and aims for the future.
+You must identify your talents and goals for the future when deciding on a major.
+You must recognize your abilities and aims for the future when choosing a major.
+
+44. There are two valid arguments that voters must weigh carefully.
+There are a couple of reasonable assertions that voters must consider cautiously.
+Voters must weigh carefully the two valid arguments.
+Voters must consider cautiously the two reasonable assertions.
+
+45.  I was fatigued because I had not slept for two days.
+I was tired because I had not rested for a couple of days.
+Since I had not slept for two days, I was fatigued.
+Since I had not rested for a couple of days, I was tired.
+
+46.  Seize the golden opportunities if you want to get the most out of life. 
+Grasp the golden oppurtunities if you want to get the majority out of life.
+If you want to get the most out of life, seize the golden oppurtunities.
+To get the majority out of life, one must grasp the golden oppurtunities.
+
+47. The street markets were crowded and noisy after the cruise ship docked.
+The road marketplace was packed and rowdy after the cruise boat anchored.
+After the cruise ship docked, the street market was crowded and noisy.
+After the cruise boat anchored, the road marketplace was packed and rowdy.
+
+48. The local hero showed his courage when he ran into the burning house and rescued the child.
+The native hero displayed his bravery when he ran into the blazing house and saved the kid.
+When the local hero ran into the burning house to rescue the child, he showed his courage.
+When the native hero ran into the blazing house to rescue the kid, he displayed his bravery.
+
+49. The coach's assistant runs the team meetings whenever the coach is unavailable.
+The coach's subordinate organizes the team gatherings whenever the coach is busy.
+The team meetings are run by the coach's assistant whenever the coach is unavailable.
+The team gatherings are organized by the coach's subordinate whenver the coach is busy.
+
+50. Rachel willingly worked for long hours even after her shift got over.
+Rachel voluntarily worked for a long time even after her shift finished.
+Even after her shift got over, Rachel willingly worked for long hours.
+Even after her shift finished, Rachel voluntarily worked for a long time. 
+
+51. Giraffes like Acacia leaves and hay and they can consume 75 pounds of food a day.
+A giraffe can eat up to 75 pounds of Acacia leaves and hay everyday. 
+75 pounds of Acacia leaves and hay can be eaten by a giraffe per day 
+A giraffe eats up to 75 pounds a day. It eats leaves and hay.
+
+52. Any trip to Italy should include a visit to Tuscany to sample their exquisite wines.
+Be sure to include a Tuscan wine-tasting experience when visiting Italy. 
+A vacation to Italy must also encompass a visit to Tuscany for wine  tasting.
+Wine tasting in Tuscany should be included in a visit to Italy
+
+53. The company was very successful
+the cooperation was extremely profitable
+success was achieved by the organisation 
+The organisation made profits
+
+54. Tony’s closest friend and associate is an FBI informant.
+an FBI informant is his friend
+a FBI spy was close to Tony
+Tony is very close to someone. That someone is an FBI informant
+
+55. Mary lived through an era of liberating reform for women.
+In her life, she went through multiple reforms for females.
+Mary was alive to witness an time period of liberation of girls.
+Liberation of women took place many years ago. Mary lived through that era.
+
+56. There are a lot of animals in the field today.
+The number of animals in the field today is a lot.
+Today in the field, there are multiple animals.
+On this day, animals in the field are many.
+
+57. A few lions can take down an entire village of people.
+A village full of people can be destroyed by just a few lions.
+A very small number of lions can tear down a village
+It does not take more than a couple of lions to finish off a village.
+
+58. I must learn how to shoot otherwise I wont be able to protect myself.
+I can only protect myself if I learn to shoot.
+To learn shooting is necessary for me. Since I wont be able to protect myself otherwise.
+ If i want to protect myself, I must learn how to shoot
+
+59. There are multiple ways to answer the same question.
+There are more than a few ways which can be used to give answers.
+The way to answer a question need not be unique.
+It is possible to answer a question in a few different ways.
+
+60. Is it worse to kill someone than to let someone die? 
+Is murdering better that letting someone lose his or her life?
+How do you decide which is better, killing or letting die?
+Is letting someone die better than killing?
+
+61. He talks about historical facts and their significance in writing history.
+He spoke about the significance of historical facts in writing history.
+The man discussed about how important historical facts are in historical writing.
+He said that historical facts are significant in writing history.
+
+62. Justice league was a horrible movie.
+The movie justice league was really bad.
+A movie that comes under the category of bad films is justice league.
+It is difficult to say but justice league the movie sucked.
+
+63. Although having different approaches, they both give answers to the same question
+The same question was answered using different approaches  by them.
+They both answered the same question but used a different approach.
+An alternate approach was used the answer the same question by both.
+
+64.  This is the definition which one would give to the term.
+The term would be given this definition by someone.
+Here is the meaning that someone would give to the expression.
+This meaning is what one would give to that term.
+
+65. What is it that I have which you don’t?
+What do I have and you do not?
+Is there something which I have and you don’t?
+What do you don’t have which I do?
+
+66. Thor is the god of thunder and is stronger than any human.
+The deity of lightning is Thor and he is very powerful.
+The lord of lightning is very powerful and his name is Thor.
+A god who is more powerful than any human being is Thor and he is the lord of thunder.
+
+67. How does one achieve success?
+In what way can you achieve success?
+Success has a key, what is it?
+What is the key to success?
+
+68. The marketing team needs to meet at night for some work.
+The team which is handling marketing, needs to meet for work at night time.
+The marketing team will be meeting for work late in the day.
+The team handling marketing is going to meet at night. They need to finish some work.
+
+69. The boy quickly ran across the finish line, seizing yet another victory.
+The quick boy seized yet another victory when he ran across the finish line.
+He swiftly ran across the finish line and won.
+He won by speedily crossing the finish line.
+
+70. Puppies were adopted by numerous kind souls at the puppy drive.
+Many kind souls adopted puppies during the puppy drive.
+Many young dogs were adopted by people with kind souls.
+Many people with kind souls adopted young dogs
+
+71. The internet in my house was not working for multiple days.
+My house’s internet was out of work for many days.
+The wifi at my house did not work for a lot of days.
+My home internet didn’t work for many days.
+
+72. The older citizens were honoured with a parade for those once in the military.
+Senior citizens were honoured with a march for veterans.
+Older veterans were honoured with a parade.
+Veterans, who were old, were honoured by a march.
+
+73. The life he once lived is no longer the same.
+His life has changed.
+That boy’s life is not the same as what it used to be.
+He does not live the same life anymore.
+
+74. While there are many who believe in god, there are also many who don’t.
+There are many atheists and many believers in god.
+Many believe and many don’t believe in god.
+Many people believe in god. However, surprisingly there are also many who don’t. 
+
+75. This essay could have been better.
+The paper could have been written in a better way.
+The presented article, although good, could have been of higher quality.
+The paper was not of good quality.
+
+76. That man lost all his money while gambling.
+Gambling made him lose all his money.
+He lost all the cash that he had while he was betting.
+Due to his habit of gambling, the man lost all his wealth.
+
+77. The phone caught fire while charging.
+The phone was kept on charge when it caught fire. The mobile went up in flames while it was on charge.
+The mobile phone was charging. A few hours later, it caught fire.
+
+78. She made me angry when she was rude at dinner.
+Her impoliteness, gossiping, and general lack of respect at dinner infuriated me.
+Her ill-mannered behaviour angered me while we were having dinner.
+While we were having dinner, her impolite and ill-mannered behaviour made me angry.
+
+79. The task performed by the interns was not up to the mark.
+The job given to the interns was not carried out properly.
+The interns did not perform well at their job.
+It was sad to see that the interns could not perform their job well.
+
+80. The talk about computer networks was excellent.
+Yesterdays talk was about various computer networks was very good.
+There was a very good talk about computer networks yesterday.
+There was a talk yesterday about computer networks. That talk was amazing.
+
+81. The project will take very less time to finish.
+It will take us a little bit of time to complete the project.
+The project completion will take place very soon.
+It won’t take much time to finish the project now.
+
+82. How many days does it take to explore Delhi?
+What number of days are required to take a tour of Delhi?
+Touring Delhi requires how many days?
+How many days are required to take a tour of Delhi.
+
+83. She was a successful author and speaker. 
+She found success as a speaker and writer.
+Her success came from speaking and writing.
+Speaking and writing gave her success. 
+
+84. The tornado razed the town. 
+The town was obliterated by the cyclone.
+The cyclone erased the town.
+The hurricane was successful in destroying the town.
+
+85. Niagara Falls is viewed by thousands of tourists every year. 
+Each year, thousands of people visit Niagara Falls.
+Thousands of people go to see Niagara Falls each year.
+There are thousands of people who pay a visit to Niagara Falls every single year.
+
+86. It was a spacious room with lit candles all over.
+Candles flickered from many areas of the large room.
+The spacious room contained many burning candles.
+The big room was lit up with many candles.
+
+87. In ancient times the olive branch was used as a peace symbol, as well as the dove.
+Many centuries ago, peace was shown with an olive branch and a dove. 
+Multiple centuries back, people used doves and an olive branch to show peace.
+Peace was shown through a dove and an olive branch many centuries ago.
+
+88. The grey clouds were a warning of an approaching storm. 
+The coming storm was foretold by the dark clouds.
+The dark clouds gave a signal of the nearing storm.
+The storm could be predicted by the dark clouds.
+
+89. He was saddened by the news. 
+The news depressed him.
+The news that he was told made him sad.
+When the news reached him, he went into depression.
+END
+END
+END
+END
+END
+END
+END
+END
+END
+
+90. The still waters of the Caribbean were teal in colour. 
+The turquoise Caribbean waters were calm.
+There is calm and turquoise water in the Caribbean.
+The Caribbean contains calm and teal water.
+

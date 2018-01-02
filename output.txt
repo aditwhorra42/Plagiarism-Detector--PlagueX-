@@ -1,0 +1,69 @@
+====================================================================================================
+Detections between 'D:/CS/px/Test Cases/Medium/Medium_N2 (D1, D10).txt' and 'D:/CS/px/Test Cases/Data/D_1 (Mahabharata).txt':
+====================================================================================================
+
+	A: 	'Dharma . Dharma is one ’ s responsibility as part of one ’ s role in the society . No action is absolutely good or bad . The motive behind the action is more important than the action itself . Through a series'
+	B: 	'Dharma . Dharma is one ’ s responsibility as part of one ’ s role in the society . No action is absolutely good or bad . The motive behind the action is more important than the action itself . When a murderer'
+	Score:	0.97
+
+	A: 	'Dharma . Dharma is one ’'
+	B: 	'part of their Dharma . Therefore , Dharma also applies in some context'
+	Score:	0.48
+
+
+
+
+====================================================================================================
+Detections between 'D:/CS/px/Test Cases/Medium/Medium_N2 (D1, D10).txt' and 'D:/CS/px/Test Cases/Data/D_2 (Oedipus).txt':
+====================================================================================================
+
+		No Detections
+
+
+
+====================================================================================================
+Detections between 'D:/CS/px/Test Cases/Medium/Medium_N2 (D1, D10).txt' and 'D:/CS/px/Test Cases/Data/D_9 (OYO).txt':
+====================================================================================================
+
+	A: 	'OYO ’ s success'
+	B: 	'Dharma is one ’ s responsibility'
+	Score:	0.3
+
+	A: 	'responsibility as part of one ’ s role'
+	B: 	'Technology played one of the , if not the , most important parts in OYO ’ s'
+	Score:	0.49
+
+	A: 	'his/her disposal to attract a larger number of customers'
+	B: 	'motive behind the action is more important than the action itself . Through a series of bitter disputes'
+	Score:	0.33
+
+	A: 	'Mughal court , Akbar was noticeably commiserating to the Christian point of view'
+	B: 	'growth of the online hotel booking industry from $ 800 million to $ 1.8 billion by the end of 2016 , technology'
+	Score:	0.46
+
+
+
+
+====================================================================================================
+Detections between 'D:/CS/px/Test Cases/Medium/Medium_N2 (D1, D10).txt' and 'D:/CS/px/Test Cases/Data/D_10 (History).txt':
+====================================================================================================
+
+	A: 	'Homer ’ s . Herodotus'
+	B: 	'Dharma is one ’ s responsibility'
+	Score:	0.4
+
+	A: 	'writings . Additionally he also wrote about godly interventions and glorified the events that took place'
+	B: 	'’ s role in the society . No action is absolutely good or bad . The motive'
+	Score:	0.46
+
+	A: 	'war in his writings . Additionally he also wrote about godly interventions and glorified the events that took place'
+	B: 	'society . No action is absolutely good or bad . The motive behind the action is more important than the action'
+	Score:	0.45
+
+	A: 	'way of writing . Herodotus wrote about cultures and civilisations'
+	B: 	'Muslim theologians ’ inability to argue effectively against them . As the inquiries'
+	Score:	0.46
+
+
+
+
