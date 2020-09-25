@@ -1,5 +1,3 @@
-PLAGUEX
-
 # About
 Conventional plagiarism detectors do a good job with direct instances of plagiarism but mostly fail when it comes to detecting paraphrases. Text can be paraphrased by restructuring the original text in such a way that it seems completely different while still having the same semantic meaning. This can be done either by using synonyms, converting active voice to passive voice and vice vera and by changing the order of the sentences. To solve this problem, we developed Plague X, a plagiarism detection application that looks for matches in semantic meaning using NLTK. Plague-X achieved 86% plagiarism detection rate on a self-developed dataset of paraphrased academic essays.
 
